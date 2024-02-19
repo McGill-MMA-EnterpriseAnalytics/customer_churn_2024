@@ -22,7 +22,9 @@ The provided sample data, containing various attributes of bank customers includ
 
 ## Key Goals:
 •	Develop an ML model with reasonable accuracy in predicting customer churn using provided sample data. 
+
 •	Identify key features contributing to churn predictions, providing initial insights into potential risk factors. 
+
 •	Quantify the potential impact of churn prediction on customer retention through metrics like uplift modeling or simulated interventions.
 
  
