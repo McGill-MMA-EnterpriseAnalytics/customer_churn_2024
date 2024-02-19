@@ -1,11 +1,11 @@
 # customer_churn_2024
 
 # Team members
-Chiara Lu
-Farah Hoque
-David Gao
-Meriem Mehri
-Yichen Yu
+Chiara Lu, 
+Farah Hoque, 
+David Gao, 
+Meriem Mehri, 
+Yichen Yu, 
 Nandani Yadav
 
 # Predicting Customer Churn in Banking Using Machine Learning
