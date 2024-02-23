@@ -21,7 +21,7 @@ Predicting customer churn using machine learning (ML) offers a powerful solution
 The provided sample data, containing various attributes of bank customers including demographics, financial behavior, and account activity, presents a valuable foundation for building an ML model to predict future churn. By leveraging this data's insights, we can unlock critical knowledge about customer behavior and develop a predictive model to identify those at risk of leaving.
 
 ## Key Goals:
-•	Develop an ML model with reasonable accuracy in predicting customer churn using provided sample data. 
+•	Develop an ML model with reasonable recall and f-beta in predicting customer churn using provided sample data. 
 
 •	Identify key features contributing to churn predictions, providing initial insights into potential risk factors. 
 
