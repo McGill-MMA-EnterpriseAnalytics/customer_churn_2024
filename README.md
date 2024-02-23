@@ -10,6 +10,9 @@ Nandani Yadav
 
 # Predicting Customer Churn in Banking Using Machine Learning
 
+![Churn Prediction Demo](https://github.com/McGill-MMA-EnterpriseAnalytics/customer_churn_2024/blob/main/Demo/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif)
+
+
 ## Attrition in Banking:
 Within the hyper-competitive banking landscape, customer retention serves as a fundamental pillar of long-term success and profitability. However, a significant and costly threat looms: customer churn, the phenomenon of customers migrating to competitors. Industry reports reveal a stark reality – acquiring new customers can be five to 25 times more expensive than retaining existing ones (Harvard Business Review, 2014). This cost disparity underscores the crucial need to proactively identify individuals at risk of churn and implement targeted retention strategies.
 By leveraging predictive analytics and machine learning, banks can gain valuable insights into customer behavior and identify early signs of churn. This empowers them to proactively intervene with personalized offers, improved service experiences, and targeted loyalty programs, fostering deeper customer relationships and ultimately preventing churn. The financial impact of customer churn extends far beyond simple acquisition costs. Studies reveal that a mere 5% increase in customer retention can boost profits by 25% to 95% (Source: Harvard Business Review, 2014).
